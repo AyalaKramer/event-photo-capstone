@@ -55,5 +55,3 @@ curl -X POST http://localhost:3000/api/events/event-100/selections \
 6. There is no real photo binary storage, payment flow, editing pipeline, or print-lab integration.
 
 Do not deploy this scaffold with real client data.
-
-
