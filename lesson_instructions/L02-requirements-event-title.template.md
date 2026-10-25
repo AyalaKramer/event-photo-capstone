@@ -8,9 +8,9 @@
 ## 2. Current behavior — verified facts
 | Claim | Evidence: file/function/line or HTTP result | Verified? |
 | --- | --- | --- |
-| Event title exists in data model | | |
-| Current client gallery presents title | | |
-| No rename endpoint exists in inspected route file | | |
+| Event title exists in data model | |yes |
+| Current client gallery presents title | | yes|
+| No rename endpoint exists in inspected route file | |yes |
 
 ## 3. Actors / users / use cases / permissions
 - Verified:
